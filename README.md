@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @himanshugupta9500
 - 👀 I’m interested in development based on Blockchain and Fullstack. 
+- 🌱I'm also a programming enthusiast and making content on coding components which will help others to crack interviews.
 - 🌱 I’m currently learning Blockchain Development on Eth.
-- 💞️ I’m looking to collaborate on projects encapsulating MERN stack and Blockchain
+- 💞️ I’m looking to collaborate on projects encapsulating MERN stack and Blockchain.
 - 📫 How to reach me :
-email: himanshugupta.cs19@rvce.edu.in
+email: businesswithhimanshu9500@gmail.com
 linkedin: https://www.linkedin.com/in/himanshu-gupta-627a15204/
 
 <!---
